@@ -1,0 +1,11 @@
+[package]
+name = "Rust_Blockchain"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.4"
+ring = "0.16.20"
+serde = "1.0.130"
+serde_json = "1.0.68"
+hex = "0.4.3"
